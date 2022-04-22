@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://susubus.github.io</id>
     <title>tendohanaten</title>
-    <updated>2022-04-22T14:16:42.503Z</updated>
+    <updated>2022-04-22T15:17:50.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://susubus.github.io"/>
     <link rel="self" href="https://susubus.github.io/atom.xml"/>
@@ -10,4 +10,22 @@
     <logo>https://susubus.github.io/images/avatar.png</logo>
     <icon>https://susubus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tendohanaten</rights>
+    <entry>
+        <title type="html"><![CDATA[配布站]]></title>
+        <id>https://susubus.github.io/post/pei-bu-zhan/</id>
+        <link href="https://susubus.github.io/post/pei-bu-zhan/">
+        </link>
+        <updated>2022-04-22T14:27:58.000Z</updated>
+        <content type="html"><![CDATA[<p>这里是UTAU音源配布站。<br>
+有关所有音源的整合群是996456501。<br>
+如果只有前缀、没有下载链接的话，就是魔女小姐还没有把他们从药罐子里拿出来了啦^^</p>
+<p>💜青木瑞树<br>
+【normal】中文单音阶：https://bowlroll.net/file/275946<br>
+【sweet】中文单音阶</p>
+<p>💙花屋朝哉<br>
+【normal】中文单音阶</p>
+<p>❤️花屋夕哉<br>
+【normal】中文双音阶</p>
+]]></content>
+    </entry>
 </feed>
