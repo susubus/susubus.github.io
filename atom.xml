@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://susubus.github.io</id>
     <title>天堂花店</title>
-    <updated>2022-04-23T07:30:24.486Z</updated>
+    <updated>2022-04-23T12:47:05.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://susubus.github.io"/>
     <link rel="self" href="https://susubus.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://susubus.github.io/images/avatar.png</logo>
     <icon>https://susubus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 天堂花店</rights>
+    <entry>
+        <title type="html"><![CDATA[SHOP]]></title>
+        <id>https://susubus.github.io/post/shop/</id>
+        <link href="https://susubus.github.io/post/shop/">
+        </link>
+        <updated>2022-04-23T11:53:50.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="约稿须知">约稿须知</h2>
+<p>请不要随意根据邮箱添加酥酥魔女的qq，会被抓起来做成小动物的哟^^<br>
+（比较怕人，一般不会用qq通过生人的好友）</p>
+<p>酥酥长期开放各种形式的委托，请使用米画师：https://www.mihuashi.com/profiles/170623<br>
+或者使用下方表单，投到邮箱：2110614644@qq.com</p>
+<p>❗️ 请注意，无论使用什么约稿方式，都有一定可能会拒绝！❗️</p>
+<p>酥酥擅长的：外表为12-20岁的少男少女，且不需要酥酥设计<br>
+酥酥不擅长的：大叔，很帅的男的和女的</p>
+<p>人设量偏好：能够看清的立绘、中量的服装设定</p>
+<p>要求偏好：不需要太详细，但是需要一定的动作指定/性格描述</p>
+<p>支付方式：国内支付方式、paypal（需要自带手续费）、米画师（需要自带手续费）</p>
+<h2 id="稿件拒绝解释">稿件拒绝解释</h2>
+<p>如果拒绝了您的稿件，可能的原因：<br>
+🈚️要求的时间内没有档期<br>
+❌稿件涉及ys、mxtx、xz等<br>
+🔞涉及18+内容（真的不会画，会画酥酥还能饿成这样？）<br>
+㊙️钱没给够<br>
+😭真的不会画</p>
+<h2 id="价格表">价格表</h2>
+<p>❗️ 请注意，本页中所有价格均为oc等私用不含设计价格，商稿价格通常要*2作买断，请另外联系 ❗️</p>
+<p>头像 300-400</p>
+<p>半身 400-700</p>
+<p>立绘 700-1000</p>
+<p>l2d原画 1000-1500<br>
+建模 1000-2000</p>
+<h2 id="档期">档期</h2>
+<pre><code>4月	  5月	 6月	7月
+✅	 ✅    ❌     ✅
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配布站]]></title>
         <id>https://susubus.github.io/post/pei-bu-zhan/</id>
