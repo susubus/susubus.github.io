@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http:/</id>
+    <id>https://susubus.github.io</id>
     <title>天堂花店</title>
-    <updated>2022-04-23T12:11:40.942Z</updated>
+    <updated>2022-04-23T12:47:05.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://atom.xml"/>
+    <link rel="alternate" href="https://susubus.github.io"/>
+    <link rel="self" href="https://susubus.github.io/atom.xml"/>
     <subtitle>魔女的后花园</subtitle>
-    <logo>http://images/avatar.png</logo>
-    <icon>http://favicon.ico</icon>
+    <logo>https://susubus.github.io/images/avatar.png</logo>
+    <icon>https://susubus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 天堂花店</rights>
     <entry>
         <title type="html"><![CDATA[SHOP]]></title>
-        <id>http://post/shop/</id>
-        <link href="http://post/shop/">
+        <id>https://susubus.github.io/post/shop/</id>
+        <link href="https://susubus.github.io/post/shop/">
         </link>
         <updated>2022-04-23T11:53:50.000Z</updated>
         <content type="html"><![CDATA[<h2 id="约稿须知">约稿须知</h2>
@@ -32,13 +32,25 @@
 🈚️要求的时间内没有档期<br>
 ❌稿件涉及ys、mxtx、xz等<br>
 🔞涉及18+内容（真的不会画，会画酥酥还能饿成这样？）<br>
-㊙️钱没给够</p>
+㊙️钱没给够<br>
+😭真的不会画</p>
+<h2 id="价格表">价格表</h2>
+<p>❗️ 请注意，本页中所有价格均为oc等私用不含设计价格，商稿价格通常要*2作买断，请另外联系 ❗️</p>
+<p>头像 300-400</p>
+<p>半身 400-700</p>
+<p>立绘 700-1000</p>
+<p>l2d原画 1000-1500<br>
+建模 1000-2000</p>
+<h2 id="档期">档期</h2>
+<pre><code>4月	  5月	 6月	7月
+✅	 ✅    ❌     ✅
+</code></pre>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[配布站]]></title>
-        <id>http://post/pei-bu-zhan/</id>
-        <link href="http://post/pei-bu-zhan/">
+        <id>https://susubus.github.io/post/pei-bu-zhan/</id>
+        <link href="https://susubus.github.io/post/pei-bu-zhan/">
         </link>
         <updated>2022-04-22T14:27:58.000Z</updated>
         <content type="html"><![CDATA[<p>这里是UTAU音源配布站。<br>
