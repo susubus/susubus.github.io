@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://susubus.github.io</id>
-    <title>tendohanaten</title>
-    <updated>2022-04-22T15:28:19.620Z</updated>
+    <title>天堂花店</title>
+    <updated>2022-04-23T03:54:07.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://susubus.github.io"/>
     <link rel="self" href="https://susubus.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>魔女的后花园</subtitle>
     <logo>https://susubus.github.io/images/avatar.png</logo>
     <icon>https://susubus.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, tendohanaten</rights>
+    <rights>All rights reserved 2022, 天堂花店</rights>
     <entry>
         <title type="html"><![CDATA[配布站]]></title>
         <id>https://susubus.github.io/post/pei-bu-zhan/</id>
