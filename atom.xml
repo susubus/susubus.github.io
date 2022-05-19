@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://susubus.github.io</id>
     <title>天堂花店</title>
-    <updated>2022-04-23T12:47:05.475Z</updated>
+    <updated>2022-05-19T12:44:46.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://susubus.github.io"/>
     <link rel="self" href="https://susubus.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://susubus.github.io/images/avatar.png</logo>
     <icon>https://susubus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 天堂花店</rights>
+    <entry>
+        <title type="html"><![CDATA[图集]]></title>
+        <id>https://susubus.github.io/post/tu-ji/</id>
+        <link href="https://susubus.github.io/post/tu-ji/">
+        </link>
+        <updated>2022-05-19T12:05:07.000Z</updated>
+        <content type="html"><![CDATA[<p>⁉️浅浅丢一些画的比较满意的图/约稿</p>
+<p><img src="https://susubus.github.io/post-images/1652962023681.png" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652961965596.png" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652961975924.png" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652961981595.png" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652962043341.png" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652962052966.jpg" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652962262952.jpg" alt="" loading="lazy"><br>
+<img src="https://susubus.github.io/post-images/1652962271413.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHOP]]></title>
         <id>https://susubus.github.io/post/shop/</id>
@@ -39,12 +56,15 @@
 <p>头像 300-400</p>
 <p>半身 400-700</p>
 <p>立绘 700-1000</p>
+<p>小插图 400-600</p>
 <p>l2d原画 1000-1500<br>
 建模 1000-2000</p>
 <h2 id="档期">档期</h2>
-<pre><code>4月	  5月	 6月	7月
-✅	 ✅    ❌     ✅
+<pre><code>5月	   6月	    7月	   8月
+✅	❌✅    ✅     ✅
 </code></pre>
+<h2 id="约稿表单">约稿表单</h2>
+<figure data-type="image" tabindex="1"><img src="https://susubus.github.io/post-images/1652961877558.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -58,11 +78,11 @@
 如果只有前缀、没有下载链接的话，就是魔女小姐还没有把他们从药罐子里拿出来了啦^^</p>
 <p>💜青木瑞树<br>
 【normal】中文单音阶：https://bowlroll.net/file/275946<br>
-【sweet】中文单音阶</p>
+【sweet】中文单音阶：https://bowlroll.net/file/277716</p>
 <p>💙花屋朝哉<br>
 【normal】中文单音阶</p>
 <p>❤️花屋夕哉<br>
-【normal】中文双音阶</p>
+【normal】中文单音阶：https://bowlroll.net/file/277715</p>
 ]]></content>
     </entry>
 </feed>
